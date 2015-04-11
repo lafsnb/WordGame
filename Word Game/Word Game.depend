@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1427646368 source:c:\users\amazing\documents\isaac\codeblocks\new folder\word game\game.cpp
+	"Map.h"
+	"Player.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1427471372 c:\users\amazing\documents\isaac\codeblocks\new folder\word game\map.h
+	"Weapon.h"
+	"Monster.h"
+	<string>
+
+1427471372 c:\users\amazing\documents\isaac\codeblocks\new folder\word game\weapon.h
+	"Range.h"
+	<string>
+
+1427471372 c:\users\amazing\documents\isaac\codeblocks\new folder\word game\range.h
+
+1427472987 c:\users\amazing\documents\isaac\codeblocks\new folder\word game\monster.h
+	"Weapon.h"
+	<string>
+
+1427587301 c:\users\amazing\documents\isaac\codeblocks\new folder\word game\player.h
+	"Weapon.h"
+	"Monster.h"
+	"Spell.h"
+	<string>
+
+1427596159 source:c:\users\amazing\documents\isaac\codeblocks\new folder\word game\map.cpp
+	"Map.h"
+	<iostream>
+	"Random.h"
+
+1427471372 c:\users\amazing\documents\isaac\codeblocks\new folder\word game\random.h
+	"Range.h"
+
+1427472987 source:c:\users\amazing\documents\isaac\codeblocks\new folder\word game\monster.cpp
+	<iostream>
+	<string>
+	"Monster.h"
+	"Player.h"
+	"Random.h"
+
+1427692325 source:c:\users\amazing\documents\isaac\codeblocks\new folder\word game\player.cpp
+	<iostream>
+	"Player.h"
+	"Random.h"
+	<string>
+
+1427471372 source:c:\users\amazing\documents\isaac\codeblocks\new folder\word game\random.cpp
+	"Random.h"
+	<cstdlib>
+
+1427587301 c:\users\amazing\documents\isaac\codeblocks\new folder\word game\spell.h
+	"Range.h"
+	<string>
+
+1427494688 source:c:\users\amazing\documents\isaac\codeblocks\new folder\word game\spell.cpp
+	"Spell.h"
+
+1427598381 source:c:\users\amazing\documents\isaac\codeblocks\new folder\word game\store.cpp
+
+1427832440 source:c:\users\amazing\documents\isaac\codeblocks\projects\word game\game.cpp
+	"Map.h"
+	"Player.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1427471372 c:\users\amazing\documents\isaac\codeblocks\projects\word game\map.h
+	"Weapon.h"
+	"Monster.h"
+	<string>
+
+1427471372 c:\users\amazing\documents\isaac\codeblocks\projects\word game\weapon.h
+	"Range.h"
+	<string>
+
+1427471372 c:\users\amazing\documents\isaac\codeblocks\projects\word game\range.h
+
+1427472987 c:\users\amazing\documents\isaac\codeblocks\projects\word game\monster.h
+	"Weapon.h"
+	<string>
+
+1427587301 c:\users\amazing\documents\isaac\codeblocks\projects\word game\player.h
+	"Weapon.h"
+	"Monster.h"
+	"Spell.h"
+	<string>
+
+1427587301 c:\users\amazing\documents\isaac\codeblocks\projects\word game\spell.h
+	"Range.h"
+	<string>
+
+1427596159 source:c:\users\amazing\documents\isaac\codeblocks\projects\word game\map.cpp
+	"Map.h"
+	<iostream>
+	"Random.h"
+
+1427471372 c:\users\amazing\documents\isaac\codeblocks\projects\word game\random.h
+	"Range.h"
+
+1427472987 source:c:\users\amazing\documents\isaac\codeblocks\projects\word game\monster.cpp
+	<iostream>
+	<string>
+	"Monster.h"
+	"Player.h"
+	"Random.h"
+
+1427692325 source:c:\users\amazing\documents\isaac\codeblocks\projects\word game\player.cpp
+	<iostream>
+	"Player.h"
+	"Random.h"
+	<string>
+
+1427471372 source:c:\users\amazing\documents\isaac\codeblocks\projects\word game\random.cpp
+	"Random.h"
+	<cstdlib>
+
+1427598381 source:c:\users\amazing\documents\isaac\codeblocks\projects\word game\store.cpp
+
